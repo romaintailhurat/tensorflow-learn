@@ -1,0 +1,53 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ],
+        "requires": {},
+        "hash": {
+            "sha256": "4a48f6ed5a6cdb484baa332b4b54d4372104d3c528caf49dab0d9f08ea580d92"
+        }
+    },
+    "default": {
+        "tensorflow": {
+            "hash": "sha256:73afd442d52219517b9e59378882d335a4e77a96123878bcabb51b358faafa17",
+            "version": "==0.12.1"
+        },
+        "appdirs": {
+            "hash": "sha256:85e58578db8f29538f3109c11250c2a5514a2fcdc9890d9b2fe777eb55517736",
+            "version": "==1.4.0"
+        },
+        "numpy": {
+            "hash": "sha256:204ffa15185d4b94eaef06d3395bd6ae032fb9db3985a2e3fd758121062021a0",
+            "version": "==1.12.0"
+        },
+        "packaging": {
+            "hash": "sha256:99276dc6e3a7851f32027a68f1095cd3f77c148091b092ea867a351811cfe388",
+            "version": "==16.8"
+        },
+        "protobuf": {
+            "hash": "sha256:42315e73409eaefdcc11e216695ff21f87dc483ad0595c57999baddf7f841180",
+            "version": "==3.1.0.post1"
+        },
+        "pyparsing": {
+            "hash": "sha256:67101d7acee692962f33dd30b5dce079ff532dd9aa99ff48d52a3dad51d2fe84",
+            "version": "==2.1.10"
+        },
+        "setuptools": {
+            "hash": "sha256:edd9d39782fe38b9c533002b2e6fdf06498793cbd29266accdcc519431d4b7ba",
+            "version": "==34.1.0"
+        },
+        "six": {
+            "hash": "sha256:0ff78c403d9bccf5a425a6d31a12aa6b47f1c21ca4dc2573a7e2f32a97335eb1",
+            "version": "==1.10.0"
+        },
+        "wheel": {
+            "hash": "sha256:ea8033fc9905804e652f75474d33410a07404c1a78dd3c949a66863bd1050ebd",
+            "version": "==0.29.0"
+        }
+    },
+    "develop": {}
+}
